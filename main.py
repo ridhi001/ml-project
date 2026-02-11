@@ -1,8 +1,6 @@
 # Project Title:
 # Behavioral Analytics–Based Cognitive Load Estimation
 # Using Keystroke Dynamics
-# ============================================================
-
 # -----------------------------
 # 1. IMPORT REQUIRED LIBRARIES
 # -----------------------------
