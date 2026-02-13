@@ -3,7 +3,7 @@
 # Using Keystroke Dynamics
 # -----------------------------
 # 1. IMPORT REQUIRED LIBRARIES
-# -----------------------------
+
 
 import numpy as np
 import pandas as pd
@@ -61,7 +61,6 @@ data = {
 df = pd.DataFrame(data)
 
 # 3. DATA PREPARATION
-# -----------------------------
 
 X = df.drop("cognitive_load", axis=1)
 y = df["cognitive_load"]
