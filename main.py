@@ -1,7 +1,6 @@
 # Project Title:
 # Behavioral Analytics–Based Cognitive Load Estimation
 # Using Keystroke Dynamics
-# -----------------------------
 # 1. IMPORT REQUIRED LIBRARIES
 
 
@@ -14,7 +13,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 # 2. DATA GENERATION
-# -----------------------------
 # Synthetic dataset representing typing behavior
 
 np.random.seed(42)
